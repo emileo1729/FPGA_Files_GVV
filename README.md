@@ -16,3 +16,6 @@ or
 
 (if you are in decade counter folder)
 make v_fname=decade
+
+
+You need to have yoysys, archane, icestorm tools for this to work.
